@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Acada Learning</name>
-		<url>http://acadalearning.com/</url>
+		<name>360-Degrees DevOps Consulting</name>
+		<url>http://360degreesdevops.com/</url>
 	</organization>
 
 	<properties>
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Acada Learning Releases Nexus Repository</name>
+	      <name>360-Degrees DevOps Releases Nexus Repository</name>
 	      <url>http://172.31.94.252:8081/repository/app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Acada Learning Snapshot Nexus Repository</name>
+	      <name>360-Degrees DevOps Snapshot Nexus Repository</name>
 	      <url>http://172.31.94.252:8081/repository/app-snapshot/</url>
 	    </snapshotRepository>
 	    
